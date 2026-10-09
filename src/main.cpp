@@ -12,8 +12,8 @@ void setup() {
 
 void loop() {
     digitalWrite(33, HIGH);
-    delay(500);
+    delay(100);
     digitalWrite(33, LOW);
-    delay(5000);
+    delay(100);
     Serial.println("Working!");
 }
