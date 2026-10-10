@@ -9,9 +9,9 @@ Pinger  ) ) )  4x Hydrophone --> Preamplifier --> Microcontroller ADC (Does Calc
 1. Frequency Range: ~ 20kHz - 50kHz
 ## Preamplifier
 
-## Microcontroller
-
 ### ADC
+
+## Microcontroller
 
 ### Program
 

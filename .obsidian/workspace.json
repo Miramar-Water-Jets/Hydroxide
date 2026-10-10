@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/Branch.md",
+                "file": "documentation/Sonar System Implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branch"
+              "title": "Sonar System Implementation"
             }
           }
         ]
@@ -188,8 +188,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "a3aaaefeb06e1bdc",
+  "active": "e84260e028c288c7",
   "lastOpenFiles": [
+    "documentation/RoboSub Sonar System.md",
+    "documentation/Software.md",
+    "documentation/PlatformIO Code.md",
+    "documentation/Links.md",
+    "documentation/Hardware.md",
+    "documentation/Branch.md",
     "RoboSub_Sonar_System/README.md~",
     "RoboSub_Sonar_System/documentation/branch.md",
     "RoboSub Sonar System.md",
