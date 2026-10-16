@@ -8,6 +8,6 @@
 | Hydrophone   | Type (Passive/Active) | Audio Ouput | Link                                                               | Frequemcy Range (Hz) |
 | ------------ | --------------------- | ----------- | ------------------------------------------------------------------ | -------------------- |
 | Aquarian H2D | Active                | XLR Ouput   | https://www.aquarianaudio.com/h2d-hydrophone.html?variation_id=115 | 10Hz - 100KHz        |
-|              |                       |             |                                                                    |                      |
+| Aquarian H1A |                       |             |                                                                    |                      |
 |              |                       |             |                                                                    |                      |
 |              |                       |             |                                                                    |                      |
