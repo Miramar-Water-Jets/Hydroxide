@@ -11,14 +11,14 @@
             "id": "a3bbc55905b8e2ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "documentation/RoboSub Sonar System.md",
-                "mode": "source",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "RoboSub Sonar System"
+              "icon": "diff",
+              "title": "Diff: README  (Working Tree)"
             }
           }
         ]
@@ -123,15 +123,15 @@
   },
   "active": "a3bbc55905b8e2ae",
   "lastOpenFiles": [
-    "documentation/Hardware.md",
     "documentation/RoboSub Sonar System.md",
+    "README.md",
+    "documentation/Hardware.md",
     "Untitled.base",
     "documentation/Links.md",
     "documentation/Sonar System Implementation.md",
     "documentation/Branch.md",
     "documentation/Code.md",
     "documentation/Software.md",
-    "README.md",
     "RoboSub_Sonar_System/README.md~",
     "RoboSub_Sonar_System/documentation/branch.md",
     "RoboSub Sonar System.md",

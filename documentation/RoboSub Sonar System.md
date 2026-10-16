@@ -2,12 +2,11 @@
 
 # Table of contents
 
-1. [[RoboSub Sonar System#Hydroxide|Hydroxide]]
-	1. [[RoboSub Sonar System##Description|Description]]
-	2. [[RoboSub Sonar System##Applications|Applications]]
-	3. [[RoboSub Sonar System##Dimensions|Dimensions]]
-	4. [[RoboSub Sonar System##Sound Flowchart|Sound Flowchart]]
-2. [[RoboSub Sonar System#Resources|Resources]]
+1. [Description](#description)
+2. [Applications](#applications)
+3. [Dimensions](#dimensions)
+4. [Sound Flowchart](#sound-flowchart)
+5. [Resources](#resources)
 
 ## Description
 
