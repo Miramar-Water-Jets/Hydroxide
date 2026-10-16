@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "61a48a7a72762fd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7c85e89d062671",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3bbc55905b8e2ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentation/RoboSub Sonar System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RoboSub Sonar System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f23ac241a0bbc361",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0da013dc0561082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3aaaefeb06e1bdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5dab81840f1eda8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d0fe76bde663c26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "accc56661ab3a11d",
+    "type": "split",
+    "children": [
+      {
+        "id": "488fc50b179e370a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39dbdab663b079ab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.1666259765625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a3bbc55905b8e2ae",
+  "lastOpenFiles": [
+    "documentation/Hardware.md",
+    "documentation/RoboSub Sonar System.md",
+    "Untitled.base",
+    "documentation/Links.md",
+    "documentation/Sonar System Implementation.md",
+    "documentation/Branch.md",
+    "documentation/Code.md",
+    "documentation/Software.md",
+    "README.md",
+    "RoboSub_Sonar_System/README.md~",
+    "RoboSub_Sonar_System/documentation/branch.md",
+    "RoboSub Sonar System.md",
+    "PlatformIO Code.md",
+    "Sonar System Implementation.md",
+    "Software.md",
+    "Hardware.md"
+  ]
+}
