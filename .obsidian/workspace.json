@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "documentation/RoboSub Sonar System.md",
+                "bFile": "documentation/RoboSub Sonar System.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: RoboSub Sonar System  (Working Tree)"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "accc56661ab3a11d",
@@ -184,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.1666259765625
+    "width": 495.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
