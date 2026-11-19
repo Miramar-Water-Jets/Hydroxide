@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "739ae7cf3604224f",
+        "id": "53f63a77b0d10457",
         "type": "tabs",
         "children": [
           {
-            "id": "5b65c294589f39a2",
+            "id": "75cee8b52ced5dc2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "documentation/RoboSub Sonar System.md",
-                "bFile": "documentation/RoboSub Sonar System.md",
-                "aRef": ""
+                "file": "documentation/RoboSub Sonar System.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: RoboSub Sonar System  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "RoboSub Sonar System"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "accc56661ab3a11d",
@@ -185,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.1666259765625
+    "width": 495.1666259765625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,12 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b65c294589f39a2",
+  "active": "75cee8b52ced5dc2",
   "lastOpenFiles": [
-    "documentation/RoboSub Sonar System.md",
     "Untitled.base",
-    "test/README.md",
+    "documentation/RoboSub Sonar System.md",
     "README.md",
+    "test/README.md",
     "include/README.md",
     "lib/README.md",
     "documentation/RoboSub.md",
