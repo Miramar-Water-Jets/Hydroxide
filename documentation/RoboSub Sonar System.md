@@ -44,7 +44,7 @@ Hydrophone (Aquarian H1A/H2D) - Sound Listener
     ↓
 Surge Voltage and ESD Protection
 	↓
-Preamplifier
+Buffeer + Preamplifier
 	↓
 High-Pass Filter
 	↓
