@@ -42,7 +42,7 @@ Pinger (25kHz - 40kHz) - Sound Source
     ↓
 Hydrophone (Aquarian H1A/H2D) - Sound Listener
     ↓
-High Input Buffer
+Surge Voltage and ESD Protection
 	↓
 Preamplifier
 	↓
