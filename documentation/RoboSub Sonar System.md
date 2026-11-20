@@ -38,8 +38,6 @@ We might use some of the following Applications:
 
 ## Sound Flowchart
 
-### Without AD7606B
-
 ```
 Pinger (25kHz - 40kHz) - Sound Source
     ↓
