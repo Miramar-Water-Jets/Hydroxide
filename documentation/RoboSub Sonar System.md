@@ -10,11 +10,13 @@
 
 ## Description
 
-Hydroxide is our custom built sonar system for our AUV, Sleepy Fishy 3.0. It gets sound from the Pinger and modifies to be useful to the AUV.
+Hydroxide is our custom-built sonar system for our AUV, Sleepy Fishy 3.0. It gets sound from the Pinger and modifies to
+be useful to the AUV.
 
 ## Applications
 
 We might use some of the following Applications:
+
 1. Audio: Audacity
 2. IDE: CLion
 3. Framework: PlatformIO
@@ -27,12 +29,13 @@ We might use some of the following Applications:
 > The table below is outdated :(
 
 | Component       | Name         | Length   | Width    | Height   | Guide Link                                                                                      | Part Link                                                         | Datasheet |
-| --------------- | ------------ | -------- | -------- | -------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------- |
+|-----------------|--------------|----------|----------|----------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------|
 | Hydrophone      | Aquarian H1A | 24.89 mm | 24.89 mm | 45.53 mm |                                                                                                 | [Aquarian H1A](https://www.aquarianaudio.com/h1a-hydrophone.html) |           |
 | ADC             |              |          |          |          |                                                                                                 |                                                                   |           |
 | Microcontroller | Teensy 4.1   | 61.66 mm | 17.78 mm | 4.07 mm  | [Teensy 4.1](https://github.com/AadarshDevi/Electronics/blob/master/board/teensy/teensy-4-1.md) | [Teensy 4.1](https://www.sparkfun.com/teensy-4-1-headers.html)    |           |
 | Voltage         |              |          |          |          |                                                                                                 |                                                                   |           |
 |                 |              |          |          |          |                                                                                                 |                                                                   |           |
+
 ## Sound Flowchart
 
 ### Without AD7606B
@@ -42,9 +45,9 @@ Pinger (25kHz - 40kHz) - Sound Source
     ↓
 Hydrophone (Aquarian H1A/H2D) - Sound Listener
     ↓
-High Input Buffer
+Surge Voltage and ESD Protection
 	↓
-Preamplifier
+Buffeer + Preamplifier
 	↓
 High-Pass Filter
 	↓
@@ -57,23 +60,8 @@ Microcontroller (Teensy 4.1)
 Companion Computer (NVIDIA Jetson Orin Nano)
 ```
 
-### With AD7606B
-
-The AD7606B does everything in a single module.
-
-```
-Pinger (25kHz - 40kHz) - Sound Source
-    ↓
-Hydrophone (Aquarian H1A/H2D) - Sound Listener
-    ↓
-AD7606B Module
-	↓
-Microcontroller (Teensy 4.1)
-	↓
-Companion Computer (NVIDIA Jetson Orin Nano)
-```
-
 # Resources
+
 1. [Hydrophone Input to Usable Sound](https://www.arhfoundation.org/convert-sound-from-hydrophone)
 2. [Teyleten Robot AD7606 Module](https://github.com/AadarshDevi/Electronics/blob/master/adc/ad7606.md)
 3. [Aquarian H1A Hydrophone](https://www.aquarianaudio.com/h1a-hydrophone.html)
