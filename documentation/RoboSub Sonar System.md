@@ -60,22 +60,6 @@ Microcontroller (Teensy 4.1)
 Companion Computer (NVIDIA Jetson Orin Nano)
 ```
 
-### With AD7606B
-
-The AD7606B does everything in a single module.
-
-```
-Pinger (25kHz - 40kHz) - Sound Source
-    ↓
-Hydrophone (Aquarian H1A/H2D) - Sound Listener
-    ↓
-AD7606B Module
-	↓
-Microcontroller (Teensy 4.1)
-	↓
-Companion Computer (NVIDIA Jetson Orin Nano)
-```
-
 # Resources
 
 1. [Hydrophone Input to Usable Sound](https://www.arhfoundation.org/convert-sound-from-hydrophone)
